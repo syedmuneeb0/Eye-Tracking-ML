@@ -16,10 +16,13 @@ How CARS Works
 The scale consists of 15 behavioral areas, including social interactions, communication, emotional response, and sensory sensitivities.
 Each category is rated on a scale from 1 to 4, with higher scores indicating more pronounced autism-related behaviors.
 The total score determines whether a child falls into non-autistic, mildly autistic, moderately autistic, or severely autistic categories.
+
 CARS Score Interpretation
-Below 30 → Likely not autistic.
-30-36.5 → Mild to moderate autism.
-Above 36.5 → Severe autism.
+
+Below 30 → Likely not autistic. 
+30-36.5 → Mild to moderate autism. 
+Above 36.5 → Severe autism. 
+
 Since you're working with eye-tracking datasets for ASD detection, CARS could be useful for validating behavioral metrics in your research.
  Foundational Eye-Tracking Concepts
 Eye tracking captures visual attention patterns through metrics like:
